@@ -3,7 +3,7 @@
 
 ## How to install 
 
-`yarn install rn-responsive-font`
+`yarn add rn-responsive-font`
 
 `npm install rn-responsive-font --save`
 
