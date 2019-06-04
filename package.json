@@ -1,0 +1,22 @@
+{
+  "name": "rn-responsive-font",
+  "version": "1.0.0",
+  "description": "A easy method for responsive fontSize based on screen width to support smaller & larger devices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-responsive-fontSize",
+    "fontSize",
+    "font",
+    "rn-responsive-font",
+    "andriod",
+    "ios",
+    "responsive",
+    "adjustable"
+  ],
+  "author": "androconsis",
+  "license": "ISC"
+}
