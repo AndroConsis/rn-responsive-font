@@ -8,7 +8,7 @@
 `npm install rn-responsive-font --save`
 
 ## How it looks on different devices
-![rn-responsive-font](https://github.com/AndroConsis/rn-responsive-font/blob/master/images/Screenshot%202019-06-04%20at%206.56.21%20PM.png?raw=true)
+![rn-responsive-font](https://i.ibb.co/r2GBBxw/Screenshot-2019-06-04-at-6-56-21-PM.png)
 
 ## Usage example
 
