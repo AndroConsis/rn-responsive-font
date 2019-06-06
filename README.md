@@ -1,5 +1,5 @@
 # rn-responsive-font
-**A easy method for responsive fontSize based on screen width to support all size devices.**
+> **A magical &  easy method for responsive fontSize based on screen width to support all size devices.**
 
 ## How to install 
 
@@ -40,3 +40,10 @@ const styles = {
 	}
 }
 ```
+
+>>*It supports both the platforms Android & iOS*
+
+
+
+
+Please consider following this project's author, [Prateek Rathore](https://github.com/AndroConsis), and consider starring the project to show your :heart: and support.
