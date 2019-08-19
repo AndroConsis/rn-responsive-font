@@ -41,9 +41,4 @@ const styles = {
 }
 ```
 
->>*It supports both the platforms Android & iOS*
-
-
-
-
-Please consider following this project's author, [Prateek Rathore](https://github.com/AndroConsis), and consider starring the project to show your :heart: and support.
+>*It supports both the platforms Android & iOS*
