@@ -1,6 +1,6 @@
 {
   "name": "rn-responsive-font",
-  "version": "0.1.3",
+  "version": "1.0.0",
   "description": "A magical & easy method for responsive fontSize based on screen width to support all size devices.",
   "main": "index.js",
   "scripts": {
